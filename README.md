@@ -10,8 +10,7 @@ first‑person/third‑person camera modes, and simple UI.
 
 ## Gameplay
 
-
-- **MP4/GIF:** repo_asset/gameplay.gif
+![Gameplay](repo_asset/gameplay.gif)
 
 ---
 
