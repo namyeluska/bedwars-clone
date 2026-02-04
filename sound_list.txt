@@ -1,0 +1,29 @@
+Please provide the following sound files in: Resources/sounds/
+
+Step Sounds:
+- grass1.ogg
+- grass2.ogg
+- grass3.ogg
+- grass4.ogg
+- stone1.ogg
+- stone2.ogg
+- stone3.ogg
+- stone4.ogg
+- cloth1.ogg (for wool)
+- cloth2.ogg
+- cloth3.ogg
+- cloth4.ogg
+
+Interaction Sounds:
+- click.ogg (UI click)
+- pop.ogg (Item pickup)
+
+Block Sounds:
+- dig_grass1.ogg (breaking)
+- dig_stone1.ogg
+- dig_cloth1.ogg
+
+Place Sounds: (Usually same as step or similar)
+- place_grass1.ogg (optional, can reuse step)
+
+If files are named differently (e.g. `grass_step1.ogg`), please rename them or let me know the naming convention.

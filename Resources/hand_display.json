@@ -1,0 +1,7 @@
+{
+  "firstperson_righthand": {
+    "rotation": [120.0, 0.0, 0.0],
+    "translation": [10, -5, 20.0],
+    "scale": [3, 3, 3]
+  }
+}
