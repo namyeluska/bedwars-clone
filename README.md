@@ -10,7 +10,7 @@ first‑person/third‑person camera modes, and simple UI.
 
 ## Gameplay
 
-[![Gameplay](https://www.youtube.com/watch?v=umZxgjTeuqU)]
+[![Gameplay](https://i.imgur.com/uV0Bt5K.png)](https://www.youtube.com/watch?v=umZxgjTeuqU)
 
 ---
 
